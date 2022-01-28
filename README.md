@@ -1,18 +1,20 @@
 # pmg_connect
 
 Sample tables
-Employees
+
+**Employees**
+
 EmployeeID,Name,City,State
 2030-2,Rebecca Aguirre,Springdale,AR
 2030-1,Miguel Aguirre,Springdale,AR
 
-Specialties
+**Specialties**
 
 
-Languages
+**Languages**
 
 
-Lang_rel
+**Lang_rel**
 
 
 
