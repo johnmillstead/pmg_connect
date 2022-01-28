@@ -4,9 +4,9 @@ Sample tables
 
 **Employees**
 
-EmployeeID,Name,City,State
-2030-2,Rebecca Aguirre,Springdale,AR
-2030-1,Miguel Aguirre,Springdale,AR
+> EmployeeID,Name,City,State
+> 2030-2,Rebecca Aguirre,Springdale,AR
+> 2030-1,Miguel Aguirre,Springdale,AR
 
 **Specialties**
 
@@ -15,7 +15,6 @@ EmployeeID,Name,City,State
 
 
 **Lang_rel**
-
 
 
 ## Cypher for creating associate speaks language relationship
