@@ -10,6 +10,11 @@ EmployeeID,Name,City,State<br/>
 
 **Specialties**
 
+SpecialtyID,Specialty,SubSpecialty<br/>
+7001,Accounting,<br/>
+7002,Administrative Services,<br/>
+7003,Adult Education,<br/>
+
 
 **Languages**
 
