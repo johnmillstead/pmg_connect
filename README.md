@@ -29,7 +29,8 @@ employeeID,languageID<br/>
 6800-1,435<br/>
 4950-2,434<br/>
 
-## Cypher for creating associate speaks language relationship
+## Cypher Snippets
+// for creating associate speaks language relationship
 LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/johnmillstead/pmg_connect/main/langrel.csv' AS row
 MATCH (a:Associate {associateID: row.employeeID}), (l:Language {languageID: row.languageID})
 CREATE (a)-[:SPEAKS]->(l);
