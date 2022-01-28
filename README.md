@@ -18,6 +18,10 @@ SpecialtyID,Specialty,SubSpecialty<br/>
 
 **Languages**
 
+languageID,language<br/>
+401,Mandarin Chinese<br/>
+402,Spanish<br/>
+403,Hindi<br/>
 
 **Lang_rel**
 
